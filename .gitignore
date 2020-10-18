@@ -1,0 +1,8 @@
+.vscode
+backup
+images
+node_modules
+proxima_ssv
+sass
+debug.log
+package-lock.json
